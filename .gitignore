@@ -1,0 +1,9 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+
+# Editor settings (VS Code, IntelliJ, etc.) - Stores your personal editor settings that others don't need
+.vscode/
+.idea/
